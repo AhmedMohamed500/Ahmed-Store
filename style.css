@@ -448,7 +448,6 @@ header .m-menu .ul-small li a:hover{
 .categories-image{
     display: flex;
     justify-content: space-between;
-    margin-top: 0px;
 }
 .cat-image{
     margin-top: 15px;
@@ -483,11 +482,11 @@ header .m-menu .ul-small li a:hover{
         width: 100%;
     }
     .cat-image img{
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
     .image-text{
-        font-size: 9px;
+        font-size: 5px;
     }
 }
 @media (min-width: 576px) and (max-width: 767.98px){
@@ -508,7 +507,7 @@ header .m-menu .ul-small li a:hover{
         height: 70px;
     }
     .image-text{
-        font-size: 12px;
+        font-size: 11px;
     }
 }
 .top-items{
